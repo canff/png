@@ -4,17 +4,13 @@
  {"name": "All",
   "url": "https://raw.githubusercontent.com/canff/png/main/Global.png"},
 
- {"name": "IP",
-  "url": "https://raw.githubusercontent.com/canff/png/main/Loon_ip.png"},
+ {"name": "IP","url": "https://raw.githubusercontent.com/canff/png/main/Loon_ip.png"},
 
- {"name": "bilibili",
-  "url": "https://raw.githubusercontent.com/canff/png/main/Bili.png"},
+ {"name": "bilibili","url": "https://raw.githubusercontent.com/canff/png/main/Bili.png"},
 
- {"name": "AI",
-  "url": "https://raw.githubusercontent.com/canff/png/main/ChatGPT4.png"},
+ {"name": "AI","url": "https://raw.githubusercontent.com/canff/png/main/ChatGPT4.png"},
 
- {"name": "telegram",
-  "url": "https://raw.githubusercontent.com/canff/png/main/Telegram.png"},
+ {"name": "telegram","url": "https://raw.githubusercontent.com/canff/png/main/Telegram.png"},
 
  {"name": "Apple",
   "url": "https://raw.githubusercontent.com/canff/png/main/Apple.png"},
